@@ -1,0 +1,7 @@
+{:header "newrelic-crate"
+ :title "Install and configure newrelic-crate."
+ :git-repo "https://github.com/pallet/newrelic-crate-crate"
+ :api-docs "http://palletops.com/newrelic-crate-crate/0.8/api"
+ :annotated-docs "http://palletops.com/newrelic-crate-crate/0.8/annotated/uberdoc.html"
+ :tag-prefix ""
+ :versions [{:pallet "0.8.0-beta.4" :version "0.8.0-alpha.1"}]}
